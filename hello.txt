@@ -1,0 +1,12 @@
+ Volume in drive C is ACER
+ Volume Serial Number is CC4C-6717
+
+ Directory of C:\Users\chandan.srivastava\Desktop\Testing
+
+22-01-2020  01:06    <DIR>          .
+22-01-2020  01:06    <DIR>          ..
+22-01-2020  00:48               470 Hello.class
+22-01-2020  00:47               142 Hello.java
+22-01-2020  01:06                 0 hello.txt
+               3 File(s)            612 bytes
+               2 Dir(s)  62,325,825,536 bytes free
